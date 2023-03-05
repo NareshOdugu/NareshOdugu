@@ -1,3 +1,7 @@
+ <div align=center>
+        <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
+    </div>
+    <div align=center>
 <h1 align="center">Hi 👋, I'm Naresh</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
 
