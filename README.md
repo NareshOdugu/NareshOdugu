@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Naresh</h1>
      
-        <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
-    </div>
 <h3 align="center">A passionate full stack web developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nareshodugu&label=Profile%20views&color=0e75b6&style=flat" alt="nareshodugu" /> </p>
